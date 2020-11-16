@@ -1,0 +1,2 @@
+# ZOOM_BOT_2020
+This is a bot that only works with the current version of the Zoom application. You can create an '.exe' file, which I might add in the future to make it a fully deployable application. This is a fun project, you can easily use this by making few changes in the files to make it work on your environment[Strictly for Windows 10 users, shall make appropriate changes to make it work on your own environment].  
